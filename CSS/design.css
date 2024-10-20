@@ -509,6 +509,12 @@ ul {
         bottom: 50px;
         left: 100px;
     }
+    .gallery .content-spaek .text-content{
+        width: 100%;
+    }
+    .gallery .content-spaek .text-content p{
+        text-align: center;
+    }
 }
 
 /* end gallery */
