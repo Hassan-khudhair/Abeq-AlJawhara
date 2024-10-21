@@ -252,7 +252,7 @@ ul {
 .landing .container .image img {
     position: relative;
     width: 400px;
-    animation: up-and-down 5s linear infinite;
+    /* animation: up-and-down 5s linear infinite; */
 }
 
 @media (max-width:991px) {
@@ -531,6 +531,7 @@ ul {
 .features .container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    margin: 0 auto;
     gap: 40px;
 }
 
